@@ -4,9 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanvijain2810&label=Profile%20views&color=0e75b6&style=flat" alt="tanvijain2810" /> </p>
 
-- 🌱 I’m currently learning **DSA & JAVA**
-
-- 📝 I regularly write articles on [https://medium.com/@tanvijain1511](https://medium.com/@tanvijain1511)
+- 🌱 I’m currently learning **Web-D & JAVA**
 
 - 📫 How to reach me **tanvijain1511@gmail.com**
 
