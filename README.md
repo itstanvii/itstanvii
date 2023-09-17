@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **tanvijain1511@gmail.com**
 
-- 📄 Know about my experiences [file:///C:/Users/Dell/Downloads/TANVI's%20Resume%20(7).pdf](file:///C:/Users/Dell/Downloads/TANVI's%20Resume%20(7).pdf)
+- 📄 Know about my experiences [https://itstanvii.github.io/Portfolio/]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
